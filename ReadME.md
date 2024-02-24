@@ -8,7 +8,7 @@ Project 1: Food Delivery Recommendation
 - Tools Used: Python, Pandas, Matplotlib, Sklearn.
 
 Project 2: SQL Demonstration
-- Description: In this project, I converted my Movies dataset from pandas dataframe to SQL engine. I performed several SQL queries to demonstrate my understanding of CTEs, joins and logic in SQL.
+- Description: In this project, I converted my Movies dataset from pandas dataframe to SQL engine. I performed several SQL queries to demonstrate my understanding of (1) CTEs to make SQL code more readable, (2) joins between multiple tables using keys and (3) sound logic to get the correct results in SQL.
 - Tools Used: Python, Pandas,SQL, sqlalchemy
 
 More projects are on the way, happy exploring!
