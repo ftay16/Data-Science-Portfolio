@@ -4,9 +4,12 @@ And hopefully inspire someone along the way, where you could be a young gun just
 
 # Table of Contents
 Project 1: Food Delivery Recommendation
-- Description: In this project, I performed exploratory data analysis on Food delivery order dataset to clean and understand the data. 
-  Next, I implemented a User-based Collaborative Filtering Recommendation Model to recommend customers new cuisines based on historical food orders of similar customers.
+- Description: In this project, I performed exploratory data analysis on Food delivery order dataset to clean and understand the data. Next, I implemented a User-based Collaborative Filtering Recommendation Model to recommend customers new cuisines based on historical food orders of similar customers.
 - Tools Used: Python, Pandas, Matplotlib, Sklearn.
+
+Project 2: SQL Demonstration
+- Description: In this project, I converted my Movies dataset from pandas dataframe to SQL engine. I performed several SQL queries to demonstrate my understanding of CTEs, joins and logic in SQL.
+- Tools Used: Python, Pandas,SQL, sqlalchemy
 
 More projects are on the way, happy exploring!
 
